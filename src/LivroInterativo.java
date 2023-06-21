@@ -3,7 +3,7 @@ import java.util.Scanner;
 public class LivroInterativo {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
-        
+        //novo comentario
         System.out.println("Bem-vindo ao livro interativo! Você está lendo 'A Floresta Misteriosa'.");
         System.out.println("Você está em uma encruzilhada na floresta. Escolha o seu caminho: [esquerda / direita]");
         
