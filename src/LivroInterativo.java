@@ -1,5 +1,5 @@
 import java.util.Scanner;
-//Comentario feiro no vs code
+
 public class LivroInterativo {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
